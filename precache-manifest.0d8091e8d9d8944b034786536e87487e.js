@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1283374bc7d3575b9187",
-    "url": "/meditate-app-whabreeze/static/css/main.275516f2.chunk.css"
+    "revision": "53d389d69f81ae55dc97",
+    "url": "/meditate-app-whabreeze/static/css/main.7cb6ab05.chunk.css"
   },
   {
-    "revision": "1283374bc7d3575b9187",
-    "url": "/meditate-app-whabreeze/static/js/main.081ee824.chunk.js"
+    "revision": "53d389d69f81ae55dc97",
+    "url": "/meditate-app-whabreeze/static/js/main.1e56ff74.chunk.js"
   },
   {
     "revision": "0ac16d3b22b73af4263a",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/meditate-app-whabreeze/static/js/2.a84145dc.chunk.js"
   },
   {
-    "revision": "454fcd8be0e10005eb11ccadc9b1138e",
+    "revision": "5e8ff17dcf278a902046d7cf336c50f1",
     "url": "/meditate-app-whabreeze/index.html"
   }
 ];
