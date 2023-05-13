@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/meditate-app-whabreeze/precache-manifest.d9d8dc173d074cdf1035efa71fb5eb67.js"
+  "/meditate-app-whabreeze/precache-manifest.470894c95222dc5c0b23812755ac7c36.js"
 );
 
 workbox.clientsClaim();

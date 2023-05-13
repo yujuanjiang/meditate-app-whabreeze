@@ -1,5 +1,5 @@
 {
-  "main.css": "/meditate-app-whabreeze/static/css/main.d4367b7f.chunk.css",
+  "main.css": "/meditate-app-whabreeze/static/css/main.2feee3f3.chunk.css",
   "main.js": "/meditate-app-whabreeze/static/js/main.1e56ff74.chunk.js",
   "main.js.map": "/meditate-app-whabreeze/static/js/main.1e56ff74.chunk.js.map",
   "runtime~main.js": "/meditate-app-whabreeze/static/js/runtime~main.86eb58db.js",
@@ -8,8 +8,8 @@
   "static/js/2.a84145dc.chunk.js": "/meditate-app-whabreeze/static/js/2.a84145dc.chunk.js",
   "static/js/2.a84145dc.chunk.js.map": "/meditate-app-whabreeze/static/js/2.a84145dc.chunk.js.map",
   "index.html": "/meditate-app-whabreeze/index.html",
-  "precache-manifest.d9d8dc173d074cdf1035efa71fb5eb67.js": "/meditate-app-whabreeze/precache-manifest.d9d8dc173d074cdf1035efa71fb5eb67.js",
+  "precache-manifest.470894c95222dc5c0b23812755ac7c36.js": "/meditate-app-whabreeze/precache-manifest.470894c95222dc5c0b23812755ac7c36.js",
   "service-worker.js": "/meditate-app-whabreeze/service-worker.js",
   "static/css/2.33f21af7.chunk.css.map": "/meditate-app-whabreeze/static/css/2.33f21af7.chunk.css.map",
-  "static/css/main.d4367b7f.chunk.css.map": "/meditate-app-whabreeze/static/css/main.d4367b7f.chunk.css.map"
+  "static/css/main.2feee3f3.chunk.css.map": "/meditate-app-whabreeze/static/css/main.2feee3f3.chunk.css.map"
 }
