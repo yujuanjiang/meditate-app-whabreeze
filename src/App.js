@@ -42,7 +42,7 @@ class App extends Component {
       audioNames: ['rain', 'forest', 'park', 'stream', 'waves'],
       seekCurrentPosition: 0,
       audioUrl: rainAudio, // Default
-      bgImg: rainImg,
+      // bgImg: rainImg,
       desiredTime: 120, // Default
       audioHovered: false,
       counterHovered: false,
@@ -234,7 +234,7 @@ class App extends Component {
     return (
       <div className={styles.App} onMouseMove={this._onMouseMove}>
         <div className={styles['bg-overlay']}></div>
-        <BackgroundImage currentImage={this.state.bgImg} />
+        
 
         <main className={styles.main}>
           <div className={styles['player-options']}>
